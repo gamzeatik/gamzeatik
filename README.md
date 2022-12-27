@@ -8,9 +8,7 @@
 💻 I am Gamze Atik, A Turkish (native language) and English ( upper intermediate) speaking 23-year-old software developer in Turkey who has an educational background in Management Information Systems. I have reliable abilities and knowledge in C#, SQL, HTML, CSS, JS, ASP.NET CORE, and also ASP.NET MVC.  <br> 
 🏠 I’m currently living at Antalya <br/>
 🔭 I’m currently working on San TSG <br/>
-<a href="https://www.linkedin.com/in/gamzeatik/">
-    <img alt="LinkedIn" title="LinkedIn" src="/linkedin.svg">
-  </a>
+
 # <p>
 
 ![Visitor Count](https://profile-counter.glitch.me/gamzeatik/count.svg)
