@@ -7,7 +7,7 @@
 # <p align="center">
 <p align="center">
  <a href="https://www.linkedin.com/in/gamzeatik/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="linkedin.svg">
   </a>
 </p>
 </p>
