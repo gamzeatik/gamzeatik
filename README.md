@@ -14,7 +14,7 @@
 
 # <p>
 
-💻 I graduated from Akdeniz University with Management Information Systems(Bachelor Degree). I have been working in the web development field while studying for 4 years. Most of my experiences are in C#, SQL, HTML, CSS, JS, ASP.NET CORE, and also ASP.NET MVC.  <br> 
+💻 I am Gamze Atik, A Turkish (native language) and English ( upper intermediate) speaking 23-year-old software developer in Turkey who has an educational background in Management Information Systems. I have reliable abilities and knowledge in C#, SQL, HTML, CSS, JS, ASP.NET CORE, and also ASP.NET MVC.  <br> 
 🏠 I’m currently living at Antalya <br/>
 🔭 I’m currently working on San TSG <br/>
 </p>
