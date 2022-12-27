@@ -18,8 +18,8 @@
 </p>
 
 
-[![Gamze's github stats](https://github-readme-stats.vercel.app/api?username=gamzeatik&show_icons=true&theme=merko)](https://github.com/gamzeatik)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzeatik&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**gamzeatik/gamzeatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Gamze's GitHub Stats :chart_with_upwards_trend:</h3>
+<div class="row">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamzeatik&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamzeatik" width="40%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamzeatik&show_icons=true&theme=dark&locale=en" alt="gamzeatik" width="45%" /></p> 
 
